@@ -1,0 +1,13 @@
+﻿Build started 7/22/2015 11:45:45 AM.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2012\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\WpdPack\Include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D WIN32 /D WPCAP /D HAVE_REMOTE /D _XKEYCHECK_H /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\Visual Studio 2012\Projects\Project1\Debug\WinPcapProject1.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\WpdPack\Lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib wpcap.lib Packet.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\admin\Documents\Visual Studio 2012\Projects\Project1\Debug\WinPcapProject1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\Visual Studio 2012\Projects\Project1\Debug\WinPcapProject1.lib" /MACHINE:X86 Debug\Main.obj
+         Project1.vcxproj -> C:\Users\admin\Documents\Visual Studio 2012\Projects\Project1\Debug\WinPcapProject1.exe
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2012\Projects\Project1\Project1\Project1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.69
